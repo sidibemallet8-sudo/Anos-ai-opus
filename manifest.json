@@ -2,7 +2,7 @@
   "name": "ANOS AI OPUS",
   "short_name": "ANOS AI",
   "description": "Intelligence Souveraine Avancée — Data Core",
-  "start_url": "./index.html",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#0a0e27",
   "theme_color": "#0a0e27",
